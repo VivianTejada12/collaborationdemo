@@ -2,7 +2,7 @@ import java.util.Arrays;
 
 public class LeadTask {
     public static void main(String[] args) {
-        int[] numbers = new int[0];
+        int[] numbers = new int[10];
         int size = numbers.length;
 
         for( int i = 0; i < size; i++){

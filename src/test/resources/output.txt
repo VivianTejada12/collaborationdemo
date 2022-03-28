@@ -1,0 +1,26 @@
+C:\Users\vivia\.jdks\openjdk-17.0.2\bin\java.exe "-javaagent:C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2021.3.1\lib\idea_rt.jar=56395:C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2021.3.1\bin" -Dfile.encoding=UTF-8 -classpath C:\Users\vivia\OneDrive\collaborationdemo\target\test-classes LeadTask
+Before: [96, 69, 49, 15, 56, 94, 93, 92, 35, 72]
+After : [15, 35, 49, 56, 69, 72, 92, 93, 94, 96]
+
+Process finished with exit code 0
+
+C:\Users\vivia\.jdks\openjdk-17.0.2\bin\java.exe "-javaagent:C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2021.3.1\lib\idea_rt.jar=56388:C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2021.3.1\bin" -Dfile.encoding=UTF-8 -classpath C:\Users\vivia\OneDrive\collaborationdemo\target\test-classes Qa1Task
+month: JAN
+month: FEB
+month: MAR
+month: APR
+month: MAY
+month: JUN
+
+Process finished with exit code 0
+
+
+C:\Users\vivia\.jdks\openjdk-17.0.2\bin\java.exe "-javaagent:C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2021.3.1\lib\idea_rt.jar=62043:C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2021.3.1\bin" -Dfile.encoding=UTF-8 -classpath C:\Users\vivia\OneDrive\collaborationdemo\target\test-classes Qa2Task
+month: JAN
+month: FEB
+month: MAR
+month: APR
+month: MAY
+month: JUN
+
+Process finished with exit code 0
